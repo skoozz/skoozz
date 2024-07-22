@@ -1,7 +1,5 @@
 # 🏄‍♂️ Skoozz
 
-**`On m'a dit que j'étais un homme à tout faire ^^`**
-
 Depuis petit, j'ai trouvé vocation dans l'informatique. Toujours été passionné dans cet univers et je souhaite en faire mon métier. Développeur et étudiant en Administration Réseaux.
 
    <p align="left">
@@ -15,19 +13,12 @@ Depuis petit, j'ai trouvé vocation dans l'informatique. Toujours été passionn
 
 ---
 
-### 🚧 Projets en cours
-
-<img align="left" alt="Git" width="80px" style="padding-right:10px;" src="https://img.shields.io/badge/FIVEM-A?style=for-the-badge&logo=fivem&logoColor=white&color=orange" />Je travaille sur UnityRP, Top 3 des serveurs FiveM en France.
-
-#
-
 ### 🧰 Languages de prog. et outils pratiqués
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br />
 
