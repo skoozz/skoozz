@@ -1,6 +1,6 @@
 # 🏄‍♂️ Skoozz
 
-Depuis petit, j'ai trouvé vocation dans l'informatique. Toujours été passionné dans cet univers et je souhaite en faire mon métier. Développeur et étudiant en Administration Réseaux.
+Depuis petit, j'ai trouvé vocation dans l'informatique. Toujours été passionné dans cet univers et je souhaite en faire mon métier. Développeur indépendant et étudiant en Administration Réseaux.
 
    <p align="left">
       <a href="https://www.youtube.com/skoozzyt?sub_confirmation=1">
